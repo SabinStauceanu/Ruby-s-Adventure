@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26d71d455467f5e40b90fead14aff339
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - collectedClipes: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
+  - collectedClips: {fileID: 8300000, guid: a20c77ecd5de9eb4a98731b45ad84c3e, type: 3}
+  - projectilePrefab: {fileID: 7275958749859368838, guid: 6525f6df03265c542b13510a5b08a377,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
